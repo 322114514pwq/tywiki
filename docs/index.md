@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+---
+icon: material/emoticon-happy
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# index
 
-## Commands
+!!! success
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+	进入条目之前先大喊一声：早安，天牢人！
 
-## Project layout
+欢迎来到Tywiki！该Wiki是由天一中学的狂热爱好者搭建的江苏省天一中学的非官方Wiki，旨在收录江苏省天一中学中的各方面生活，各种人文现象，及各种持久性事件，但不收录一些过于琐碎的人物。无论是刚进天一不熟地方的新生，还是对天一现状感兴趣的校外人士，希望这个简明的Wiki指北都可以为大家提供帮助。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Wiki的编写深受 [OI Wiki](https://oi-wiki.org/) 的启发，在此一并致谢。
